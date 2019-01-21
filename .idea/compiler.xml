@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Builders-Builders_how_it_works_main~1" target="1.8" />
+      <module name="Builders-Builders_how_it_works_test~1" target="1.8" />
+      <module name="Builders-Function_literals_with_receiver_main~1" target="1.8" />
+      <module name="Builders-Function_literals_with_receiver_test~1" target="1.8" />
+      <module name="Builders-Html_builders_main~1" target="1.8" />
+      <module name="Builders-Html_builders_test~1" target="1.8" />
+      <module name="Builders-String_and_map_builders_main~1" target="1.8" />
+      <module name="Builders-String_and_map_builders_test~1" target="1.8" />
+      <module name="Builders-The_function_apply_main~1" target="1.8" />
+      <module name="Builders-The_function_apply_test~1" target="1.8" />
+      <module name="Collections-All_Any_and_other_predicates_main~1" target="1.8" />
+      <module name="Collections-All_Any_and_other_predicates_test~1" target="1.8" />
+      <module name="Collections-Compound_tasks_main~1" target="1.8" />
+      <module name="Collections-Compound_tasks_test~1" target="1.8" />
+      <module name="Collections-Filter_map_main~1" target="1.8" />
+      <module name="Collections-Filter_map_test~1" target="1.8" />
+      <module name="Collections-FlatMap_main~1" target="1.8" />
+      <module name="Collections-FlatMap_test~1" target="1.8" />
+      <module name="Collections-Fold_main~1" target="1.8" />
+      <module name="Collections-Fold_test~1" target="1.8" />
+      <module name="Collections-Get_used_to_new_style_main~1" target="1.8" />
+      <module name="Collections-Get_used_to_new_style_test~1" target="1.8" />
+      <module name="Collections-GroupBy_main~1" target="1.8" />
+      <module name="Collections-GroupBy_test~1" target="1.8" />
+      <module name="Collections-Introduction_main~1" target="1.8" />
+      <module name="Collections-Introduction_test~1" target="1.8" />
+      <module name="Collections-Max_min_main~1" target="1.8" />
+      <module name="Collections-Max_min_test~1" target="1.8" />
+      <module name="Collections-Partition_main~1" target="1.8" />
+      <module name="Collections-Partition_test~1" target="1.8" />
+      <module name="Collections-Sort_main~1" target="1.8" />
+      <module name="Collections-Sort_test~1" target="1.8" />
+      <module name="Collections-Sum_main~1" target="1.8" />
+      <module name="Collections-Sum_test~1" target="1.8" />
+      <module name="Conventions-Comparison_main~1" target="1.8" />
+      <module name="Conventions-Comparison_test~1" target="1.8" />
+      <module name="Conventions-Destructuring_declarations_main~1" target="1.8" />
+      <module name="Conventions-Destructuring_declarations_test~1" target="1.8" />
+      <module name="Conventions-For_loop_main~1" target="1.8" />
+      <module name="Conventions-For_loop_test~1" target="1.8" />
+      <module name="Conventions-In_range_main~1" target="1.8" />
+      <module name="Conventions-In_range_test~1" target="1.8" />
+      <module name="Conventions-Invoke_main~1" target="1.8" />
+      <module name="Conventions-Invoke_test~1" target="1.8" />
+      <module name="Conventions-Operators_overloading_main~1" target="1.8" />
+      <module name="Conventions-Operators_overloading_test~1" target="1.8" />
+      <module name="Conventions-Range_to_main~1" target="1.8" />
+      <module name="Conventions-Range_to_test~1" target="1.8" />
+      <module name="Generics-Generic_functions_main~1" target="1.8" />
+      <module name="Generics-Generic_functions_test~1" target="1.8" />
+      <module name="Introduction-Data_classes_main~1" target="1.8" />
+      <module name="Introduction-Data_classes_test~1" target="1.8" />
+      <module name="Introduction-Default_arguments_main~1" target="1.8" />
+      <module name="Introduction-Default_arguments_test~1" target="1.8" />
+      <module name="Introduction-Extension_functions_main~1" target="1.8" />
+      <module name="Introduction-Extension_functions_test~1" target="1.8" />
+      <module name="Introduction-Extensions_on_collections_main~1" target="1.8" />
+      <module name="Introduction-Extensions_on_collections_test~1" target="1.8" />
+      <module name="Introduction-Hello,_world!_main~1" target="1.8" />
+      <module name="Introduction-Hello,_world!_test~1" target="1.8" />
+      <module name="Introduction-Java_to_Kotlin_conversion_main~1" target="1.8" />
+      <module name="Introduction-Java_to_Kotlin_conversion_test~1" target="1.8" />
+      <module name="Introduction-Lambdas_main~1" target="1.8" />
+      <module name="Introduction-Lambdas_test~1" target="1.8" />
+      <module name="Introduction-Named_arguments_main~1" target="1.8" />
+      <module name="Introduction-Named_arguments_test~1" target="1.8" />
+      <module name="Introduction-Nullable_types_main~1" target="1.8" />
+      <module name="Introduction-Nullable_types_test~1" target="1.8" />
+      <module name="Introduction-Object_expressions_main~1" target="1.8" />
+      <module name="Introduction-Object_expressions_test~1" target="1.8" />
+      <module name="Introduction-SAM_conversions_main~1" target="1.8" />
+      <module name="Introduction-SAM_conversions_test~1" target="1.8" />
+      <module name="Introduction-Smart_casts_main~1" target="1.8" />
+      <module name="Introduction-Smart_casts_test~1" target="1.8" />
+      <module name="Introduction-Strings_main~1" target="1.8" />
+      <module name="Introduction-Strings_test~1" target="1.8" />
+      <module name="Kotlin Koans-util_main" target="1.8" />
+      <module name="Kotlin Koans-util_test" target="1.8" />
+      <module name="Properties-Delegates_examples_main~1" target="1.8" />
+      <module name="Properties-Delegates_examples_test~1" target="1.8" />
+      <module name="Properties-Delegates_how_it_works_main~1" target="1.8" />
+      <module name="Properties-Delegates_how_it_works_test~1" target="1.8" />
+      <module name="Properties-Lazy_property_main~1" target="1.8" />
+      <module name="Properties-Lazy_property_test~1" target="1.8" />
+      <module name="Properties-Properties_main~1" target="1.8" />
+      <module name="Properties-Properties_test~1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
